@@ -1,12 +1,32 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🧑‍💼 Task Management System – Admin & Employee Dashboards
 
-Currently, two official plugins are available:
+A fully responsive **Task Management System** featuring dedicated dashboards for **Admins** and **Employees**, built with **React.js**, **Tailwind CSS**, and powered by **Local Storage**. Designed with a modern AI-assisted UI approach, this project ensures smooth user experience and efficient task management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🌟 Features
 
-## Expanding the ESLint configuration
+* ⚛️ **React.js** SPA with component-based structure
+* 🎨 **Tailwind CSS** & **Flowbite** used for sleek, responsive UI
+* 🧠 AI-inspired layout and design system
+* 🗂️ **Local Storage** for client-side data persistence (no backend needed)
+* 🌐 Global state managed using **Context API**
+* 🔄 **Two-Way Binding** in forms for seamless data updates
+* 🔔 Toaster feedback via **React-Toastify**
+* 👨‍💼 **Admin Dashboard** to:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  * Create and assign tasks
+  * View employee-wise task breakdown (New, Active, Completed, Failed)
+* 👨‍🔧 **Employee Dashboard** to:
+
+  * View assigned tasks
+  * Update task status
+  * View task progress visually
+* 📱 Fully **responsive design**, optimized for mobile, tablet, and desktop
+
+### 🛠️ Tech Stack
+
+* **Frontend**: React.js, Tailwind CSS, Flowbite
+* **State Management**: React Context API
+* **Data Storage**: Local Storage
+* **Notifications**: React-Toastify
+
