@@ -1,15 +1,4 @@
-Got it! You have a **monorepo** — a single GitHub repository that contains **multiple separate MERN stack projects** inside it.
 
-Here’s a tailored `README.md` for your repo that:
-
-* Describes the overall repo
-* Lists all included projects
-* Explains how to run each individually
-* Can be easily updated when you add more projects
-
----
-
-```markdown
 # MERN Stack Projects Repository
 
 Welcome to my **MERN Stack Projects** repository! 👋  
@@ -130,9 +119,3 @@ This repository is open-source and available under the [MIT License](LICENSE).
 * This README provides a central overview.
 * Each project may also have its own detailed `README.md` inside its folder (recommended).
 
----
-
-```
-
-Let me know if you'd like me to auto-generate `README.md` files **inside each project folder**, too.
-```
